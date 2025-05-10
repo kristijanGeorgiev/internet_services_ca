@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4892ED2F-95A3-4746-80F7-2DD16EB0F89C}|CarRental.API\\CarRental.API.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.api\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4892ED2F-95A3-4746-80F7-2DD16EB0F89C}|CarRental.API\\CarRental.API.csproj|solutionrelative:carrental.api\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|solutionrelative:carrental.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.infrastructure\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|solutionrelative:carrental.infrastructure\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|solutionrelative:carrental.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.infrastructure\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|solutionrelative:carrental.infrastructure\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4892ED2F-95A3-4746-80F7-2DD16EB0F89C}|CarRental.API\\CarRental.API.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4892ED2F-95A3-4746-80F7-2DD16EB0F89C}|CarRental.API\\CarRental.API.csproj|solutionrelative:carrental.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4892ED2F-95A3-4746-80F7-2DD16EB0F89C}|CarRental.API\\CarRental.API.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4892ED2F-95A3-4746-80F7-2DD16EB0F89C}|CarRental.API\\CarRental.API.csproj|solutionrelative:carrental.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.infrastructure\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|solutionrelative:carrental.infrastructure\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4892ED2F-95A3-4746-80F7-2DD16EB0F89C}|CarRental.API\\CarRental.API.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4892ED2F-95A3-4746-80F7-2DD16EB0F89C}|CarRental.API\\CarRental.API.csproj|solutionrelative:carrental.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203535DB-1316-4D26-A1F0-D38665140A84}|CarRental.Application\\CarRental.Application.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.application\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203535DB-1316-4D26-A1F0-D38665140A84}|CarRental.Application\\CarRental.Application.csproj|solutionrelative:carrental.application\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203535DB-1316-4D26-A1F0-D38665140A84}|CarRental.Application\\CarRental.Application.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.application\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203535DB-1316-4D26-A1F0-D38665140A84}|CarRental.Application\\CarRental.Application.csproj|solutionrelative:carrental.application\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.domain\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|solutionrelative:carrental.domain\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|solutionrelative:carrental.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.domain\\carrental.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|solutionrelative:carrental.domain\\carrental.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203535DB-1316-4D26-A1F0-D38665140A84}|CarRental.Application\\CarRental.Application.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.application\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203535DB-1316-4D26-A1F0-D38665140A84}|CarRental.Application\\CarRental.Application.csproj|solutionrelative:carrental.application\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3DBF9F-5A51-4472-9647-773D42FBB5C8}|CarRental.Domain\\CarRental.Domain.csproj|solutionrelative:carrental.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|c:\\users\\lenovo\\documents\\uac\\semestar-6\\services\\carrental\\carrental.infrastructure\\migrations\\20250509121217_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221A4EA-71A2-45B0-AA69-F9CD726486A8}|CarRental.Infrastructure\\CarRental.Infrastructure.csproj|solutionrelative:carrental.infrastructure\\migrations\\20250509121217_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "CarRental.Infrastructure\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Services\\ClientService.cs",
+              "RelativeToolTip": "CarRental.Infrastructure\\Services\\ClientService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:50:47.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "CarRental.Infrastructure\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Services\\CarService.cs",
+              "RelativeToolTip": "CarRental.Infrastructure\\Services\\CarService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwD0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:47:27.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Application\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "CarRental.Application\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Application\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "CarRental.Application\\Interfaces\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:44:54.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "CarRental.Infrastructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Repositories\\ClientRepository.cs*",
+              "RelativeToolTip": "CarRental.Infrastructure\\Repositories\\ClientRepository.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:38:39.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.API\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "CarRental.API\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.API\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "CarRental.API\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:55:30.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.API\\Program.cs",
+              "RelativeDocumentMoniker": "CarRental.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.API\\Program.cs",
+              "RelativeToolTip": "CarRental.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:52:09.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Application\\DTOs\\CarDto.cs",
+              "RelativeDocumentMoniker": "CarRental.Application\\DTOs\\CarDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Application\\DTOs\\CarDto.cs",
+              "RelativeToolTip": "CarRental.Application\\DTOs\\CarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:43:02.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "CarRental.Domain\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\Entities\\Car.cs",
+              "RelativeToolTip": "CarRental.Domain\\Entities\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:40:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarRental.Infrastructure\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "CarRental.Infrastructure\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:50:14.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.API\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarRental.API\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.API\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CarRental.API\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:04:16.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "CarRental.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "CarRental.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:34:03.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "CarRental.Domain\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "CarRental.Domain\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:39:17.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "CarRental.Domain\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "CarRental.Domain\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:03:17.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarRental.Domain",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\CarRental.Domain.csproj",
+              "RelativeDocumentMoniker": "CarRental.Domain\\CarRental.Domain.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\CarRental.Domain.csproj",
+              "RelativeToolTip": "CarRental.Domain\\CarRental.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T14:03:15.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "CarRental.Domain\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "CarRental.Domain\\Entities\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:41:18.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Application\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "CarRental.Application\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Application\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "CarRental.Application\\Interfaces\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:39:09.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250509121217_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Migrations\\20250509121217_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CarRental.Infrastructure\\Migrations\\20250509121217_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\UAC\\semestar-6\\Services\\CarRental\\CarRental.Infrastructure\\Migrations\\20250509121217_InitialCreate.cs",
+              "RelativeToolTip": "CarRental.Infrastructure\\Migrations\\20250509121217_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:12:18.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

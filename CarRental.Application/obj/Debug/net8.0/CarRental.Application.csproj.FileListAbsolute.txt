@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\bin\Debug\net8.0\CarRental.Application.deps.json
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\bin\Debug\net8.0\CarRental.Application.dll
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\bin\Debug\net8.0\CarRental.Application.pdb
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\bin\Debug\net8.0\CarRental.Domain.dll
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\bin\Debug\net8.0\CarRental.Domain.pdb
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\CarRental.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\CarRental.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\CarRental.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\CarRental.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\CarRental.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\CarRenta.87FDFFE6.Up2Date
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\CarRental.Application.dll
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\refint\CarRental.Application.dll
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\CarRental.Application.pdb
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Application\obj\Debug\net8.0\ref\CarRental.Application.dll

@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\bin\Debug\net8.0\CarRental.Infrastructure.deps.json
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\bin\Debug\net8.0\CarRental.Infrastructure.dll
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\bin\Debug\net8.0\CarRental.Infrastructure.pdb
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\bin\Debug\net8.0\CarRental.Application.dll
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\bin\Debug\net8.0\CarRental.Domain.dll
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\bin\Debug\net8.0\CarRental.Application.pdb
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\bin\Debug\net8.0\CarRental.Domain.pdb
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\CarRental.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\CarRental.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\CarRental.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\CarRental.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\CarRental.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\CarRenta.CD2C48B0.Up2Date
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\CarRental.Infrastructure.dll
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\refint\CarRental.Infrastructure.dll
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\CarRental.Infrastructure.pdb
+C:\Users\Lenovo\Documents\UAC\semestar-6\Services\CarRental\CarRental.Infrastructure\obj\Debug\net8.0\ref\CarRental.Infrastructure.dll
